@@ -2,7 +2,7 @@
 <div id="app" class="small-container">
   
  <h1>Employee Table</h1>
- <employee-table :employees="employeees"></employee-table>>
+ <employee-table :employees="employees"></employee-table>>
 </div>
   
 </template>
